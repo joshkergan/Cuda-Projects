@@ -1,3 +1,15 @@
+Intro projects for CUDA programming
+===================================
+
+I've moved my personal work with the needed support code into the HW* directories.
+The code should work with Linux and Visual Studio under CUDA SDK version 8.
+
+The code is originally sourced from Udacity's Introduction to CUDA Programming (cs344).
+
+## Dependencies
+The code requires a properly installed OpenCV and CUDA SDK.
+
+
 cs344
 =====
 
